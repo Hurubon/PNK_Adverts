@@ -1,0 +1,9 @@
+[submodule "Libraries/PNK_LibStub"]
+	path = Libraries/PNK_LibStub
+	url = https://github.com/Hurubon/PNK_LibStub
+[submodule "Libraries/PNK_Loader"]
+	path = Libraries/PNK_Loader
+	url = https://github.com/Hurubon/PNK_Loader
+[submodule "Libraries/PNK_Timer"]
+	path = Libraries/PNK_Timer
+	url = https://github.com/Hurubon/PNK_Timer

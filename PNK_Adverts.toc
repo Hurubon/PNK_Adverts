@@ -1,0 +1,12 @@
+## Title: |cFF2EBFA6PNK_Adverts|r
+## Interface: 30300
+## Version: 0.1alpha
+## Author: Hurubon
+## DefaultState: enabled
+## SavedVariables: PNK_ADVERTS_OUTPUT_CHAT
+
+Libraries\PNK_LibStub\core.lua
+Libraries\PNK_Loader\core.lua
+Libraries\PNK_Timer\core.lua
+
+core.lua
