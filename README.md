@@ -19,11 +19,9 @@ Automated adverts in World of Warcraft chats.
 #### Installation
 
 1. Open a terminal or command prompt on your desktop
-2. Enter these commands:
+2. Enter this command
 ```bash
-git clone https://github.com/Hurubon/PNK_Adverts
-cd PNK_Adverts
-git submodule update --recursive --init
+git clone https://github.com/Hurubon/PNK_Adverts --recursive
 ```
 3. Close the terminal
 4. Move the PNK_Adverts folder to your addons folder
