@@ -1,6 +1,6 @@
 ## Title: |cFF2EBFA6PNK_Adverts|r
 ## Interface: 30300
-## Version: 0.1.1alpha
+## Version: 0.1.2alpha
 ## Author: Hurubon
 ## DefaultState: enabled
 ## SavedVariables: PNK_ADVERTS_OUTPUT_CHAT

@@ -34,11 +34,11 @@ Start an ad:
 Stop an ad:
 /ads stop Greeting
 
-Set ad broadcasting chat:
+Set ads broadcasting chat:
 /ads setchat General
 ```
 
 ## 📜 License
 
-Distributed under the **GPLv3** license.\
+Distributed under the **MIT** license.\
 See [LICENSE](LICENSE) for details.
